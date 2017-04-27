@@ -1,0 +1,106 @@
+header .row {
+  display: flex;
+  align-items: center;
+}
+
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+nav a {
+  padding: 0 10px;
+  margin-top: .75em;
+  color: black;
+}
+
+nav a:hover {
+  color: white;
+}
+
+.navbar-light_blue {
+  background-color: #598fe5;
+}
+
+.navbar-header img {
+  margin-top: .33em;
+}
+
+.jumbotron-night-sky h2, p {
+  color: white;
+}
+
+.wide-button {
+  margin-top: 5px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+.jumbotron-night-sky {
+  background-image: url('http://www.bzfusion.net/skymaps/skymap_photo9_pre.jpg');
+  background-size: cover;
+  padding-top: 120px;
+  padding-bottom: 90px;
+  margin-bottom: 0px;
+}
+
+p.small {
+  color: black;
+  line-height: 110%
+}
+
+.light-grey-area {
+  background-color: #F2F2F2;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.outlined-button {
+  border: 1px solid #337ab7;
+  padding: 2px 25px;
+}
+
+p.increased-line-height {
+  color: #9E9E9E;
+  line-height: 200%;
+}
+
+.submit-button {
+  display: block;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.form-group {
+  margin-bottom: 0px;
+}
+
+.border-around-form {
+  border: 2px solid #ddd;
+  border-radius: 3px;
+  padding: 15px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    background-color: #ddd;
+  }
+
+.thick-footer {
+  height: 200px;
+  background-color: #598fe5;
+}
+
+nav.footer-links {
+  padding-bottom: 150px;
+  padding-right: 0px;
+}
+
+.nav-footer img {
+  padding-bottom: 130px;
+}
