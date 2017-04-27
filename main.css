@@ -1,12 +1,9 @@
-header .row {
+header .row, footer .row {
   display: flex;
   align-items: center;
 }
 
-footer .row {
-  display: flex;
-  align-items: center;
-}
+
 
 nav a {
   padding: 0 10px;
